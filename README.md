@@ -1,3 +1,15 @@
+# Coderetreat Starting Point
+
+This project was created to provide a starting point with JavaScript and Jest.
+
+## Example Test
+
+There is an example test in /src/example.test.js.
+
+## Running tests
+
+`yarn test`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
